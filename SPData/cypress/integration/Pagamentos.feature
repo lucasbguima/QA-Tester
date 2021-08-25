@@ -1,7 +1,6 @@
 #language: pt
 Funcionalidade: Pagamentos
 
-@focus
 Cenario: Realizar pagamento com cartão de crédito
     Dado que o usuário acessou a página de pagamentos
     Quando o usuário preencher os dados do formulário de pagamento
