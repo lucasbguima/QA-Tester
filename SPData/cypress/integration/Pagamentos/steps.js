@@ -1,4 +1,4 @@
-// Data Acess - Dados de Acesso Fictícios
+// Data - Dados de Acesso Fictícios
 var url = "https://pag.ae/7XsMFXAb1"
 var email = "teste@sandbox.pagseguro.com.br"
 var cartao = 4111111111111111
